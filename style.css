@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+.square1 {
+  width: 1920px;
+  height: 75px;
+  background: rgb(151, 240, 210);
+  position: relative; /* 今の位置を基準 */
+  top: -10px; /* 上から10px */
+  left: -10px;
+}
+
+.maintexts {
+  position: relative; /* 今の位置を基準 */
+  left: 15px;
+  top: -20px; /* 上から10px */
+}
+
+.emailbox {
+  position: relative;
+  top: -15px;
+}
+
+.passwordbox {
+  position: relative;
+  top: -15px;
+}
+
+.bg1 {
+  width: 1920px;
+  height: 200px;
+  background: rgb(151, 240, 210);
+  position: relative; /* 今の位置を基準 */
+  top: 200px; /* 上から10px */
+  left: -10px;
+}
